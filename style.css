@@ -1,0 +1,2102 @@
+.mobile,
+.mobile * {
+  box-sizing: border-box;
+}
+.mobile {
+  height: 10593px;
+  position: relative;
+  overflow: hidden;
+}
+.mobile2 {
+  position: absolute;
+  inset: 0;
+}
+.vector {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.background {
+  width: 100%;
+  height: 8.8%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 91.2%;
+  top: 0%;
+  overflow: visible;
+}
+.line-decoration {
+  width: 375px;
+  height: 174.17px;
+  position: absolute;
+  left: 0px;
+  top: 135px;
+  overflow: visible;
+}
+.we-re-serious-for-food {
+  color: #1d1d1f;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 51px;
+  font-weight: 600;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  width: 85.33%;
+  bottom: 97.17%;
+  top: 1.08%;
+  height: 1.76%;
+}
+.we-strive-to-provide-a-space-where-guests-can-connect-with-themselves-and-explore-their-full-potential-offering-a-safe-place {
+  color: #1d1d1f;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 159.4%;
+  font-weight: 400;
+  position: absolute;
+  right: 8.8%;
+  left: 6.93%;
+  width: 84.27%;
+  bottom: 96.31%;
+  top: 3.07%;
+  height: 0.62%;
+}
+.button {
+  width: 320px;
+  height: 68px;
+  position: static;
+}
+.rectangle-1 {
+  width: 85.33%;
+  height: 0.64%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 95.17%;
+  top: 4.19%;
+  overflow: visible;
+}
+.get-started {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 45.05%;
+  left: 31.22%;
+  width: 23.73%;
+  bottom: 95.4%;
+  top: 4.42%;
+  height: 0.18%;
+}
+.icon-awesome-long-arrow-alt-right {
+  width: 5.97%;
+  height: 0.1%;
+  position: absolute;
+  right: 31.22%;
+  left: 62.82%;
+  bottom: 95.44%;
+  top: 4.46%;
+  overflow: visible;
+}
+.place-your-image {
+  width: 85.34%;
+  height: 4.44%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 90.29%;
+  top: 5.28%;
+  overflow: visible;
+  object-fit: cover;
+}
+.polcadot {
+  width: 174px;
+  height: 174px;
+  position: absolute;
+  left: 221px;
+  top: 873px;
+  overflow: visible;
+}
+.ratings {
+  width: 230px;
+  height: 53px;
+  position: static;
+}
+.rectangle-2 {
+  width: 61.33%;
+  height: 0.5%;
+  position: absolute;
+  right: 19.2%;
+  left: 19.47%;
+  bottom: 90.88%;
+  top: 8.62%;
+  overflow: visible;
+}
+._5-0-ratings {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  right: 53.87%;
+  left: 24.53%;
+  width: 21.6%;
+  bottom: 91.05%;
+  top: 8.78%;
+  height: 0.17%;
+}
+.star {
+  width: 99.23px;
+  height: 14.58px;
+  position: absolute;
+  left: 188px;
+  top: 932.71px;
+  overflow: visible;
+}
+.good-quality-product {
+  width: 230px;
+  height: 53px;
+  position: static;
+}
+.rectangle-3 {
+  width: 61.33%;
+  height: 0.5%;
+  position: absolute;
+  right: 19.2%;
+  left: 19.47%;
+  bottom: 90.29%;
+  top: 9.21%;
+  overflow: visible;
+}
+.place-your-image2 {
+  width: 10.67%;
+  height: 0.38%;
+  position: absolute;
+  right: 67.2%;
+  left: 22.13%;
+  bottom: 90.34%;
+  top: 9.28%;
+  overflow: visible;
+  object-fit: cover;
+}
+.good-quality-product2 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  right: 23.47%;
+  left: 35.47%;
+  width: 41.07%;
+  bottom: 90.46%;
+  top: 9.37%;
+  height: 0.17%;
+}
+.brand-logo {
+  width: 320px;
+  height: 87.37px;
+  position: absolute;
+  left: 27px;
+  top: 1081px;
+  overflow: visible;
+}
+.features {
+  width: 324px;
+  height: 497px;
+  position: static;
+}
+.free-shipping {
+  width: 117px;
+  height: 137px;
+  position: static;
+}
+.icon {
+  width: 18.67%;
+  height: 0.66%;
+  position: absolute;
+  right: 64%;
+  left: 17.33%;
+  bottom: 87.19%;
+  top: 12.15%;
+  overflow: visible;
+}
+.free-shipping2 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  right: 57.33%;
+  left: 11.47%;
+  width: 31.2%;
+  bottom: 86.78%;
+  top: 13.01%;
+  height: 0.21%;
+}
+.orders-over-140 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  opacity: 0.75;
+  position: absolute;
+  right: 57.33%;
+  left: 11.47%;
+  width: 31.2%;
+  bottom: 86.56%;
+  top: 13.28%;
+  height: 0.16%;
+}
+.quick-payment {
+  width: 148px;
+  height: 137px;
+  position: static;
+}
+.icon2 {
+  width: 18.67%;
+  height: 0.66%;
+  position: absolute;
+  right: 17.33%;
+  left: 64%;
+  bottom: 87.19%;
+  top: 12.15%;
+  overflow: visible;
+}
+.quick-payment2 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  right: 8.8%;
+  left: 57.07%;
+  width: 34.13%;
+  bottom: 86.78%;
+  top: 13.01%;
+  height: 0.21%;
+}
+._100-secure-payment {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  opacity: 0.75;
+  position: absolute;
+  right: 6.4%;
+  left: 54.13%;
+  width: 39.47%;
+  bottom: 86.56%;
+  top: 13.28%;
+  height: 0.16%;
+}
+.special-promo {
+  width: 132px;
+  height: 137px;
+  position: static;
+}
+.icon3 {
+  width: 18.67%;
+  height: 0.66%;
+  position: absolute;
+  right: 64.8%;
+  left: 16.53%;
+  bottom: 84.91%;
+  top: 14.42%;
+  overflow: visible;
+}
+.special-p-romo {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  right: 54.93%;
+  left: 11.2%;
+  width: 33.87%;
+  bottom: 84.51%;
+  top: 15.28%;
+  height: 0.21%;
+}
+.get-special-promo {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  opacity: 0.75;
+  position: absolute;
+  right: 57.6%;
+  left: 9.87%;
+  width: 32.53%;
+  bottom: 84.28%;
+  top: 15.56%;
+  height: 0.16%;
+}
+._24-7-support {
+  width: 113px;
+  height: 137px;
+  position: static;
+}
+.icon4 {
+  width: 18.67%;
+  height: 0.66%;
+  position: absolute;
+  right: 17.07%;
+  left: 64.27%;
+  bottom: 84.91%;
+  top: 14.42%;
+  overflow: visible;
+}
+._24-7-support2 {
+  color: #1d1d1f;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  right: 11.2%;
+  left: 58.67%;
+  width: 30.13%;
+  bottom: 84.51%;
+  top: 15.28%;
+  height: 0.21%;
+}
+.ready-support {
+  color: #1d1d1f;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  opacity: 0.75;
+  position: absolute;
+  right: 13.07%;
+  left: 60.53%;
+  width: 26.4%;
+  bottom: 84.28%;
+  top: 15.56%;
+  height: 0.16%;
+}
+.line-1 {
+  opacity: 0.15;
+  width: 85.33%;
+  height: 0%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 88.41%;
+  top: 11.59%;
+  overflow: visible;
+}
+.line-2 {
+  opacity: 0.15;
+  width: 85.33%;
+  height: 0%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 83.72%;
+  top: 16.28%;
+  overflow: visible;
+}
+.our-benefit {
+  width: 360px;
+  height: 845.39px;
+  position: static;
+}
+.images {
+  width: 85.33%;
+  height: 4.17%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 78.97%;
+  top: 16.86%;
+  overflow: visible;
+}
+.polcadot2 {
+  width: 174px;
+  height: 174px;
+  position: absolute;
+  left: -13px;
+  top: 2281px;
+  overflow: visible;
+}
+.our-benefit2 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  right: 38.51%;
+  left: 39.62%;
+  width: 21.87%;
+  bottom: 78.26%;
+  top: 21.57%;
+  height: 0.17%;
+}
+.the-more-healthy-food-the-better {
+  color: #1d1d1f;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 35px;
+  font-weight: 500;
+  position: absolute;
+  right: 7.47%;
+  left: 7.73%;
+  width: 84.8%;
+  bottom: 77.34%;
+  top: 21.86%;
+  height: 0.79%;
+}
+.check-item {
+  width: 251px;
+  height: 19.39px;
+  position: static;
+}
+.icon-awesome-check {
+  width: 6.93%;
+  height: 0.18%;
+  position: absolute;
+  right: 79.47%;
+  left: 13.6%;
+  bottom: 76.67%;
+  top: 23.15%;
+  overflow: visible;
+}
+.be-alive-with-veggie-food {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 19.47%;
+  left: 26.4%;
+  width: 54.13%;
+  bottom: 76.67%;
+  top: 23.15%;
+  height: 0.18%;
+}
+.check-item2 {
+  width: 201px;
+  height: 19.39px;
+  position: static;
+}
+.icon-awesome-check2 {
+  width: 6.93%;
+  height: 0.18%;
+  position: absolute;
+  right: 79.47%;
+  left: 13.6%;
+  bottom: 76.29%;
+  top: 23.52%;
+  overflow: visible;
+}
+.it-s-the-place-to-be {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 32.8%;
+  left: 26.4%;
+  width: 40.8%;
+  bottom: 76.3%;
+  top: 23.52%;
+  height: 0.18%;
+}
+.check-item3 {
+  width: 212px;
+  height: 19.39px;
+  position: static;
+}
+.icon-awesome-check3 {
+  width: 6.93%;
+  height: 0.18%;
+  position: absolute;
+  right: 79.47%;
+  left: 13.6%;
+  bottom: 75.91%;
+  top: 23.9%;
+  overflow: visible;
+}
+.nonstop-veggie-food {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 29.87%;
+  left: 26.4%;
+  width: 43.73%;
+  bottom: 75.92%;
+  top: 23.9%;
+  height: 0.18%;
+}
+.check-item4 {
+  width: 248px;
+  height: 19.39px;
+  position: static;
+}
+.icon-awesome-check4 {
+  width: 6.93%;
+  height: 0.18%;
+  position: absolute;
+  right: 79.47%;
+  left: 13.6%;
+  bottom: 75.54%;
+  top: 24.28%;
+  overflow: visible;
+}
+.the-best-silk-dish-in-town {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 20.27%;
+  left: 26.4%;
+  width: 53.33%;
+  bottom: 75.54%;
+  top: 24.28%;
+  height: 0.18%;
+}
+.check-item5 {
+  width: 275px;
+  height: 19.39px;
+  position: static;
+}
+.icon-awesome-check5 {
+  width: 6.93%;
+  height: 0.18%;
+  position: absolute;
+  right: 79.47%;
+  left: 13.6%;
+  bottom: 75.16%;
+  top: 24.66%;
+  overflow: visible;
+}
+.truffles-egg-pumpkin-spice {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 13.07%;
+  left: 26.4%;
+  width: 60.53%;
+  bottom: 75.16%;
+  top: 24.66%;
+  height: 0.18%;
+}
+.our-features {
+  width: 352px;
+  height: 1192px;
+  position: static;
+}
+.images2 {
+  width: 85.33%;
+  height: 4.92%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 69.58%;
+  top: 25.5%;
+  overflow: visible;
+}
+.polcadot3 {
+  width: 174px;
+  height: 174px;
+  position: absolute;
+  left: -5px;
+  top: 3252px;
+  overflow: visible;
+}
+._1500 {
+  width: 108px;
+  height: 82px;
+  position: static;
+}
+._1-500 {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  position: absolute;
+  right: 35.47%;
+  left: 35.73%;
+  width: 28.8%;
+  bottom: 67.21%;
+  top: 32.33%;
+  height: 0.45%;
+}
+.sold-product {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  opacity: 0.65;
+  position: absolute;
+  right: 37.33%;
+  left: 38.13%;
+  width: 24.53%;
+  bottom: 66.89%;
+  top: 32.94%;
+  height: 0.17%;
+}
+._500 {
+  width: 137px;
+  height: 82px;
+  position: static;
+}
+._5002 {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  position: absolute;
+  right: 38.93%;
+  left: 40%;
+  width: 21.07%;
+  bottom: 66.07%;
+  top: 33.47%;
+  height: 0.45%;
+}
+.possitive-feedback {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  opacity: 0.65;
+  position: absolute;
+  right: 31.47%;
+  left: 32%;
+  width: 36.53%;
+  bottom: 65.75%;
+  top: 34.08%;
+  height: 0.17%;
+}
+._400 {
+  width: 92px;
+  height: 82px;
+  position: static;
+}
+._4002 {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  position: absolute;
+  right: 38.93%;
+  left: 39.73%;
+  width: 21.33%;
+  bottom: 64.94%;
+  top: 34.61%;
+  height: 0.45%;
+}
+.official-store {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  opacity: 0.65;
+  position: absolute;
+  right: 37.07%;
+  left: 38.4%;
+  width: 24.53%;
+  bottom: 64.62%;
+  top: 35.21%;
+  height: 0.17%;
+}
+.our-stars {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  right: 41.07%;
+  left: 40.8%;
+  width: 18.13%;
+  bottom: 69.08%;
+  top: 30.75%;
+  height: 0.17%;
+}
+.veggie-food-goes-on-and-always-on {
+  color: #1d1d1f;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 35px;
+  font-weight: 500;
+  position: absolute;
+  right: 7.47%;
+  left: 6.13%;
+  width: 86.4%;
+  bottom: 68.17%;
+  top: 31.04%;
+  height: 0.79%;
+}
+.button2 {
+  width: 320px;
+  height: 79px;
+  position: static;
+}
+.rectangle-12 {
+  width: 85.33%;
+  height: 0.75%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 63.25%;
+  top: 36%;
+  overflow: visible;
+}
+.get-special-promo2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 37.76%;
+  left: 24.91%;
+  width: 37.33%;
+  bottom: 63.54%;
+  top: 36.28%;
+  height: 0.18%;
+}
+.icon-awesome-long-arrow-alt-right2 {
+  width: 5.97%;
+  height: 0.1%;
+  position: absolute;
+  right: 24.91%;
+  left: 69.12%;
+  bottom: 63.57%;
+  top: 36.33%;
+  overflow: visible;
+}
+.group-4 {
+  width: 319px;
+  height: 115px;
+  position: static;
+}
+.our-features2 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  right: 37.37%;
+  left: 37.83%;
+  width: 24.8%;
+  bottom: 61.86%;
+  top: 37.97%;
+  height: 0.17%;
+}
+.variety-of-veggie-foods {
+  color: #1d1d1f;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 35px;
+  font-weight: 500;
+  position: absolute;
+  right: 7.47%;
+  left: 7.47%;
+  width: 85.07%;
+  bottom: 60.95%;
+  top: 38.26%;
+  height: 0.79%;
+}
+.place-your-image3 {
+  width: 85.33%;
+  height: 2.76%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 57.57%;
+  top: 39.67%;
+  overflow: visible;
+  object-fit: cover;
+}
+.veggies-are {
+  width: 320px;
+  height: 292.5px;
+  position: static;
+}
+.box {
+  width: 85.33%;
+  height: 2.76%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 54.81%;
+  top: 42.43%;
+  overflow: visible;
+}
+.veggies-are-forever {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  right: 21.87%;
+  left: 17.33%;
+  width: 60.8%;
+  bottom: 56.48%;
+  top: 42.78%;
+  height: 0.74%;
+}
+.we-offer-the-following-services {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 30.93%;
+  left: 17.33%;
+  width: 51.73%;
+  bottom: 55.89%;
+  top: 43.76%;
+  height: 0.36%;
+}
+.button3 {
+  width: 148px;
+  height: 42px;
+  position: static;
+}
+.rectangle-6 {
+  width: 39.47%;
+  height: 0.4%;
+  position: absolute;
+  right: 43.33%;
+  left: 17.2%;
+  bottom: 55.14%;
+  top: 44.47%;
+  overflow: visible;
+}
+.discover-now {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  right: 52.67%;
+  left: 20.93%;
+  width: 26.4%;
+  bottom: 55.26%;
+  top: 44.57%;
+  height: 0.17%;
+}
+.icon-awesome-long-arrow-alt-right3 {
+  width: 3.26%;
+  height: 0.06%;
+  position: absolute;
+  right: 47.07%;
+  left: 49.68%;
+  bottom: 55.31%;
+  top: 44.64%;
+  overflow: visible;
+}
+.place-your-image4 {
+  width: 78%;
+  height: 2.76%;
+  position: absolute;
+  right: 11.07%;
+  left: 10.93%;
+  bottom: 52.05%;
+  top: 45.19%;
+  overflow: visible;
+  object-fit: cover;
+}
+.good-for {
+  width: 320px;
+  height: 292.5px;
+  position: static;
+}
+.box2 {
+  width: 85.33%;
+  height: 2.76%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 49.29%;
+  top: 47.95%;
+  overflow: visible;
+}
+.good-for-your-skin {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  right: 21.87%;
+  left: 17.33%;
+  width: 60.8%;
+  bottom: 50.96%;
+  top: 48.31%;
+  height: 0.74%;
+}
+.we-offer-the-following-services2 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 27.47%;
+  left: 17.33%;
+  width: 55.2%;
+  bottom: 50.36%;
+  top: 49.28%;
+  height: 0.36%;
+}
+.rectangle-62 {
+  width: 39.47%;
+  height: 0.4%;
+  position: absolute;
+  right: 43.33%;
+  left: 17.2%;
+  bottom: 49.61%;
+  top: 49.99%;
+  overflow: visible;
+}
+.discover-now2 {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  right: 52.67%;
+  left: 20.93%;
+  width: 26.4%;
+  bottom: 49.74%;
+  top: 50.09%;
+  height: 0.17%;
+}
+.icon-awesome-long-arrow-alt-right4 {
+  width: 3.26%;
+  height: 0.06%;
+  position: absolute;
+  right: 47.07%;
+  left: 49.68%;
+  bottom: 49.78%;
+  top: 50.16%;
+  overflow: visible;
+}
+.place-your-image5 {
+  width: 78%;
+  height: 2.76%;
+  position: absolute;
+  right: 11.2%;
+  left: 10.8%;
+  bottom: 46.52%;
+  top: 50.72%;
+  overflow: visible;
+  object-fit: cover;
+}
+.veggie-food-groove {
+  width: 320px;
+  height: 292.5px;
+  position: static;
+}
+.box3 {
+  width: 85.33%;
+  height: 2.76%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 43.76%;
+  top: 53.47%;
+  overflow: visible;
+}
+.veggie-food-groove2 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  right: 21.87%;
+  left: 17.33%;
+  width: 60.8%;
+  bottom: 45.44%;
+  top: 53.83%;
+  height: 0.74%;
+}
+.we-offer-the-following-services3 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 32%;
+  left: 17.33%;
+  width: 50.67%;
+  bottom: 44.84%;
+  top: 54.8%;
+  height: 0.36%;
+}
+.rectangle-63 {
+  width: 39.47%;
+  height: 0.4%;
+  position: absolute;
+  right: 43.33%;
+  left: 17.2%;
+  bottom: 44.09%;
+  top: 55.51%;
+  overflow: visible;
+}
+.discover-now3 {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  right: 52.67%;
+  left: 20.93%;
+  width: 26.4%;
+  bottom: 44.21%;
+  top: 55.62%;
+  height: 0.17%;
+}
+.icon-awesome-long-arrow-alt-right5 {
+  width: 3.26%;
+  height: 0.06%;
+  position: absolute;
+  right: 47.07%;
+  left: 49.68%;
+  bottom: 44.26%;
+  top: 55.68%;
+  overflow: visible;
+}
+.place-your-image6 {
+  width: 78%;
+  height: 2.76%;
+  position: absolute;
+  right: 11.2%;
+  left: 10.8%;
+  bottom: 41%;
+  top: 56.24%;
+  overflow: visible;
+  object-fit: cover;
+}
+.that-comes {
+  width: 320px;
+  height: 292.5px;
+  position: static;
+}
+.box4 {
+  width: 85.33%;
+  height: 2.76%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 38.24%;
+  top: 59%;
+  overflow: visible;
+}
+.that-comes-close {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  right: 22.13%;
+  left: 17.33%;
+  width: 60.53%;
+  bottom: 39.91%;
+  top: 59.35%;
+  height: 0.74%;
+}
+.we-offer-the-following-services4 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 22.13%;
+  left: 17.33%;
+  width: 60.53%;
+  bottom: 39.32%;
+  top: 60.32%;
+  height: 0.36%;
+}
+.rectangle-64 {
+  width: 39.47%;
+  height: 0.4%;
+  position: absolute;
+  right: 43.33%;
+  left: 17.2%;
+  bottom: 38.57%;
+  top: 61.04%;
+  overflow: visible;
+}
+.discover-now4 {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  right: 52.67%;
+  left: 20.93%;
+  width: 26.4%;
+  bottom: 38.69%;
+  top: 61.14%;
+  height: 0.17%;
+}
+.icon-awesome-long-arrow-alt-right6 {
+  width: 3.26%;
+  height: 0.06%;
+  position: absolute;
+  right: 47.07%;
+  left: 49.68%;
+  bottom: 38.74%;
+  top: 61.21%;
+  overflow: visible;
+}
+.group-5 {
+  width: 318px;
+  height: 115px;
+  position: static;
+}
+.our-product {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  position: absolute;
+  right: 38.4%;
+  left: 38.4%;
+  width: 23.2%;
+  bottom: 36.85%;
+  top: 62.98%;
+  height: 0.17%;
+}
+.most-popular-product {
+  color: #1d1d1f;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 35px;
+  font-weight: 500;
+  position: absolute;
+  right: 7.73%;
+  left: 7.47%;
+  width: 84.8%;
+  bottom: 35.94%;
+  top: 63.27%;
+  height: 0.79%;
+}
+.summer-veganie {
+  width: 320px;
+  height: 445px;
+  position: static;
+}
+.rectangle-7 {
+  width: 85.33%;
+  height: 4.2%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 31.09%;
+  top: 64.71%;
+  overflow: visible;
+}
+.place-your-image7 {
+  width: 50.67%;
+  height: 1.79%;
+  position: absolute;
+  right: 24.53%;
+  left: 24.8%;
+  bottom: 33.26%;
+  top: 64.95%;
+  overflow: visible;
+  object-fit: cover;
+}
+.star2 {
+  width: 99.23px;
+  height: 14.58px;
+  position: absolute;
+  left: 137.39px;
+  top: 7075px;
+  overflow: visible;
+}
+.summer-veganie2 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 27.73%;
+  left: 29.6%;
+  width: 42.67%;
+  bottom: 32.64%;
+  top: 67.13%;
+  height: 0.23%;
+}
+.price {
+  width: 85px;
+  height: 24px;
+  position: static;
+}
+._29 {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 38.4%;
+  left: 51.47%;
+  width: 10.13%;
+  bottom: 32.18%;
+  top: 67.59%;
+  height: 0.23%;
+}
+._25 {
+  color: #767675;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: line-through;
+  opacity: 0.35;
+  position: absolute;
+  right: 50.67%;
+  left: 38.93%;
+  width: 10.4%;
+  bottom: 32.18%;
+  top: 67.59%;
+  height: 0.23%;
+}
+.button4 {
+  width: 177px;
+  height: 57px;
+  position: static;
+}
+.rectangle-13 {
+  width: 47.2%;
+  height: 0.54%;
+  position: absolute;
+  right: 26.13%;
+  left: 26.67%;
+  bottom: 31.37%;
+  top: 68.09%;
+  overflow: visible;
+}
+.buy-now {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 47.2%;
+  left: 34.67%;
+  width: 18.13%;
+  bottom: 31.56%;
+  top: 68.26%;
+  height: 0.18%;
+}
+.icon-awesome-long-arrow-alt-right7 {
+  width: 5.97%;
+  height: 0.1%;
+  position: absolute;
+  right: 32.91%;
+  left: 61.12%;
+  bottom: 31.59%;
+  top: 68.31%;
+  overflow: visible;
+}
+.greanie-seafood {
+  width: 320px;
+  height: 445px;
+  position: static;
+}
+.rectangle-72 {
+  width: 85.33%;
+  height: 4.2%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 26.54%;
+  top: 69.26%;
+  overflow: visible;
+}
+.place-your-image8 {
+  width: 50.67%;
+  height: 1.79%;
+  position: absolute;
+  right: 24.53%;
+  left: 24.8%;
+  bottom: 28.71%;
+  top: 69.5%;
+  overflow: visible;
+  object-fit: cover;
+}
+.star3 {
+  width: 99.23px;
+  height: 14.58px;
+  position: absolute;
+  left: 137.39px;
+  top: 7557px;
+  overflow: visible;
+}
+.greanie-seafood2 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 28.53%;
+  left: 29.33%;
+  width: 42.13%;
+  bottom: 28.09%;
+  top: 71.68%;
+  height: 0.23%;
+}
+._292 {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 38.4%;
+  left: 51.47%;
+  width: 10.13%;
+  bottom: 27.63%;
+  top: 72.14%;
+  height: 0.23%;
+}
+._252 {
+  color: #767675;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: line-through;
+  opacity: 0.35;
+  position: absolute;
+  right: 50.67%;
+  left: 38.93%;
+  width: 10.4%;
+  bottom: 27.63%;
+  top: 72.14%;
+  height: 0.23%;
+}
+.rectangle-14 {
+  width: 47.2%;
+  height: 0.54%;
+  position: absolute;
+  right: 26.13%;
+  left: 26.67%;
+  bottom: 26.82%;
+  top: 72.64%;
+  overflow: visible;
+}
+.buy-now2 {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 47.2%;
+  left: 34.67%;
+  width: 18.13%;
+  bottom: 27.01%;
+  top: 72.81%;
+  height: 0.18%;
+}
+.icon-awesome-long-arrow-alt-right8 {
+  width: 5.97%;
+  height: 0.1%;
+  position: absolute;
+  right: 32.91%;
+  left: 61.12%;
+  bottom: 27.04%;
+  top: 72.86%;
+  overflow: visible;
+}
+.fresh-vegetable {
+  width: 320px;
+  height: 445px;
+  position: static;
+}
+.rectangle-73 {
+  width: 85.33%;
+  height: 4.2%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 22%;
+  top: 73.8%;
+  overflow: visible;
+}
+.place-your-image9 {
+  width: 50.67%;
+  height: 1.79%;
+  position: absolute;
+  right: 24.53%;
+  left: 24.8%;
+  bottom: 24.17%;
+  top: 74.04%;
+  overflow: visible;
+  object-fit: cover;
+}
+.star4 {
+  width: 99.23px;
+  height: 14.58px;
+  position: absolute;
+  left: 137.39px;
+  top: 8038px;
+  overflow: visible;
+}
+.fresh-vegetable2 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 28.29%;
+  left: 30.64%;
+  width: 41.07%;
+  bottom: 23.55%;
+  top: 76.22%;
+  height: 0.23%;
+}
+._293 {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 38.4%;
+  left: 51.47%;
+  width: 10.13%;
+  bottom: 23.09%;
+  top: 76.68%;
+  height: 0.23%;
+}
+._253 {
+  color: #767675;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: line-through;
+  opacity: 0.35;
+  position: absolute;
+  right: 50.67%;
+  left: 38.93%;
+  width: 10.4%;
+  bottom: 23.09%;
+  top: 76.68%;
+  height: 0.23%;
+}
+.rectangle-15 {
+  width: 47.2%;
+  height: 0.54%;
+  position: absolute;
+  right: 26.13%;
+  left: 26.67%;
+  bottom: 22.28%;
+  top: 77.18%;
+  overflow: visible;
+}
+.buy-now3 {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 47.2%;
+  left: 34.67%;
+  width: 18.13%;
+  bottom: 22.47%;
+  top: 77.35%;
+  height: 0.18%;
+}
+.icon-awesome-long-arrow-alt-right9 {
+  width: 5.97%;
+  height: 0.1%;
+  position: absolute;
+  right: 32.91%;
+  left: 61.12%;
+  bottom: 22.5%;
+  top: 77.4%;
+  overflow: visible;
+}
+.fresh-meatyus {
+  width: 320px;
+  height: 445px;
+  position: static;
+}
+.rectangle-74 {
+  width: 85.33%;
+  height: 4.2%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 17.45%;
+  top: 78.35%;
+  overflow: visible;
+}
+.place-your-image10 {
+  width: 50.67%;
+  height: 1.79%;
+  position: absolute;
+  right: 24.53%;
+  left: 24.8%;
+  bottom: 19.62%;
+  top: 78.59%;
+  overflow: visible;
+  object-fit: cover;
+}
+.star5 {
+  width: 99.23px;
+  height: 14.58px;
+  position: absolute;
+  left: 137.39px;
+  top: 8520px;
+  overflow: visible;
+}
+.fresh-meatyus2 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 29.6%;
+  left: 33.07%;
+  width: 37.33%;
+  bottom: 19%;
+  top: 80.77%;
+  height: 0.23%;
+}
+._294 {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  right: 38.4%;
+  left: 51.47%;
+  width: 10.13%;
+  bottom: 18.54%;
+  top: 81.23%;
+  height: 0.23%;
+}
+._254 {
+  color: #767675;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: line-through;
+  opacity: 0.35;
+  position: absolute;
+  right: 50.67%;
+  left: 38.93%;
+  width: 10.4%;
+  bottom: 18.54%;
+  top: 81.23%;
+  height: 0.23%;
+}
+.rectangle-16 {
+  width: 47.2%;
+  height: 0.54%;
+  position: absolute;
+  right: 26.13%;
+  left: 26.67%;
+  bottom: 17.73%;
+  top: 81.73%;
+  overflow: visible;
+}
+.buy-now4 {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 47.2%;
+  left: 34.67%;
+  width: 18.13%;
+  bottom: 17.92%;
+  top: 81.9%;
+  height: 0.18%;
+}
+.icon-awesome-long-arrow-alt-right10 {
+  width: 5.97%;
+  height: 0.1%;
+  position: absolute;
+  right: 32.91%;
+  left: 61.12%;
+  bottom: 17.95%;
+  top: 81.95%;
+  overflow: visible;
+}
+.veggie-foods {
+  width: 1032px;
+  height: 459px;
+  position: static;
+}
+.rectangle-9 {
+  width: 275.2%;
+  height: 4.33%;
+  position: absolute;
+  right: -106.13%;
+  left: -69.07%;
+  bottom: 12.47%;
+  top: 83.2%;
+  overflow: visible;
+  object-fit: cover;
+}
+.line-decoration2 {
+  width: 320px;
+  height: 174.17px;
+  position: absolute;
+  left: 27px;
+  top: 8913px;
+  overflow: visible;
+}
+.veggie-foods-ingredients-you-want-to-try {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 35px;
+  font-weight: 500;
+  position: absolute;
+  right: 10.93%;
+  left: 10.93%;
+  width: 78.13%;
+  bottom: 14.65%;
+  top: 84.16%;
+  height: 1.19%;
+}
+.button5 {
+  width: 293px;
+  height: 79px;
+  position: static;
+}
+.rectangle-17 {
+  width: 78.13%;
+  height: 0.75%;
+  position: absolute;
+  right: 10.93%;
+  left: 10.93%;
+  bottom: 13.41%;
+  top: 85.84%;
+  overflow: visible;
+}
+.get-started2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 44.4%;
+  left: 31.87%;
+  width: 23.73%;
+  bottom: 13.71%;
+  top: 86.11%;
+  height: 0.18%;
+}
+.icon-awesome-long-arrow-alt-right11 {
+  width: 5.97%;
+  height: 0.1%;
+  position: absolute;
+  right: 31.87%;
+  left: 62.16%;
+  bottom: 13.74%;
+  top: 86.16%;
+  overflow: visible;
+}
+.footer {
+  width: 375px;
+  height: 1291px;
+  position: static;
+}
+.rectangle-65 {
+  width: 100%;
+  height: 12.19%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 87.81%;
+  overflow: visible;
+}
+.logo {
+  width: 277px;
+  height: 206.98px;
+  position: static;
+}
+.social-media {
+  width: 100.38px;
+  height: 20.38px;
+  position: absolute;
+  left: 137.5px;
+  top: 9553.6px;
+  overflow: visible;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor {
+  color: #1d1d1f;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 151.4%;
+  font-weight: 400;
+  position: absolute;
+  right: 13.33%;
+  left: 12.8%;
+  width: 73.87%;
+  bottom: 10.16%;
+  top: 89.16%;
+  height: 0.68%;
+}
+.logo2 {
+  width: 120px;
+  height: 39px;
+  position: static;
+}
+.foodies {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  right: 32.53%;
+  left: 35.47%;
+  width: 32%;
+  bottom: 11.21%;
+  top: 88.43%;
+  height: 0.37%;
+}
+.about-us {
+  width: 107px;
+  height: 194px;
+  position: static;
+}
+.about-us2 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 39.73%;
+  left: 41.33%;
+  width: 18.93%;
+  bottom: 8.03%;
+  top: 91.79%;
+  height: 0.18%;
+}
+.service-us {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 38.13%;
+  left: 40%;
+  width: 21.87%;
+  bottom: 7.7%;
+  top: 92.12%;
+  height: 0.18%;
+}
+.contact {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 41.07%;
+  left: 42.67%;
+  width: 16.27%;
+  bottom: 7.37%;
+  top: 92.45%;
+  height: 0.18%;
+}
+.company {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 40%;
+  left: 40.8%;
+  width: 19.2%;
+  bottom: 7.04%;
+  top: 92.78%;
+  height: 0.18%;
+}
+.about-us3 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  right: 34.13%;
+  left: 37.33%;
+  width: 28.53%;
+  bottom: 8.6%;
+  top: 91.13%;
+  height: 0.27%;
+}
+.company2 {
+  width: 110px;
+  height: 194px;
+  position: static;
+}
+.partnership {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 37.6%;
+  left: 38.93%;
+  width: 23.47%;
+  bottom: 5.45%;
+  top: 94.37%;
+  height: 0.18%;
+}
+.terms-of-use {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 36%;
+  left: 37.07%;
+  width: 26.93%;
+  bottom: 5.12%;
+  top: 94.7%;
+  height: 0.18%;
+}
+.privacy {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 42.13%;
+  left: 42.93%;
+  width: 14.93%;
+  bottom: 4.79%;
+  top: 95.03%;
+  height: 0.18%;
+}
+.sitemap {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 41.33%;
+  left: 42.13%;
+  width: 16.53%;
+  bottom: 4.46%;
+  top: 95.36%;
+  height: 0.18%;
+}
+.company3 {
+  color: #0c1b2a;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  right: 33.87%;
+  left: 36.8%;
+  width: 29.33%;
+  bottom: 6.01%;
+  top: 93.71%;
+  height: 0.27%;
+}
+.get-in-touch {
+  width: 320px;
+  height: 261px;
+  position: static;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor2 {
+  color: #1d1d1f;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 8.53%;
+  left: 7.2%;
+  width: 84.27%;
+  bottom: 2.68%;
+  top: 96.96%;
+  height: 0.36%;
+}
+.get-in-touch2 {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  right: 30.13%;
+  left: 32.53%;
+  width: 37.33%;
+  bottom: 3.43%;
+  top: 96.3%;
+  height: 0.27%;
+}
+.button6 {
+  width: 320px;
+  height: 50px;
+  position: static;
+}
+.rectangle-18 {
+  width: 85.33%;
+  height: 0.47%;
+  position: absolute;
+  right: 7.47%;
+  left: 7.2%;
+  bottom: 1.24%;
+  top: 98.29%;
+  overflow: visible;
+}
+.text-icon {
+  width: 68px;
+  height: 17px;
+  position: static;
+}
+.subscribe {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  right: 40.53%;
+  left: 41.33%;
+  width: 18.13%;
+  bottom: 1.4%;
+  top: 98.44%;
+  height: 0.16%;
+}
+.rectangle-92 {
+  width: 84.27%;
+  height: 0.51%;
+  position: absolute;
+  right: 8.53%;
+  left: 7.2%;
+  bottom: 1.8%;
+  top: 97.69%;
+  overflow: visible;
+}
+.email {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  opacity: 0.51;
+  position: absolute;
+  right: 45.07%;
+  left: 45.33%;
+  width: 9.6%;
+  bottom: 1.98%;
+  top: 97.86%;
+  height: 0.16%;
+}
+.copyright-2021-foodies {
+  color: #1d1d1f;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 20.53%;
+  left: 25.33%;
+  width: 54.13%;
+  bottom: 0.29%;
+  top: 99.53%;
+  height: 0.18%;
+}
+.foodies2 {
+  color: var(--06c167, #06c167);
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: absolute;
+  right: 60%;
+  left: 8%;
+  width: 32%;
+  bottom: 99.41%;
+  top: 0.23%;
+  height: 0.37%;
+}
+.menu {
+  width: 50px;
+  height: 41px;
+  position: absolute;
+  left: 297px;
+  top: 25px;
+  overflow: visible;
+}
